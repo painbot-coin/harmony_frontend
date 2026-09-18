@@ -1,25 +1,14 @@
-# Vitejs + React + TypeScript + Rudux Thunk + Material UI Boilerplate
+# Harmony frontend
 
-### Setup Project
+Production Harmony UI for labeling and review. React + TypeScript on Vite, state with Redux Thunk, Material UI, Tailwind.
 
-```
-npm i
-```
+## What is in here
 
-### Run local server
-```
-npm start
-```
+- Vite React TypeScript app
+- Redux Thunk store
+- Material UI + Tailwind
+- GitHub Actions
 
-### Build Application
-```
-npm run build
-```
+## Stack
 
-### ENV
-
-Please include a .env in the root folder in below format
-
-```
-VITE_API_BASE_URL='http://localhost/api'
-```
+React, TypeScript, Vite, Redux Thunk, Material UI, Tailwind
